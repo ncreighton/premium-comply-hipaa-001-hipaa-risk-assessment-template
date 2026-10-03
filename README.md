@@ -1,0 +1,2 @@
+# premium-comply-hipaa-001-hipaa-risk-assessment-template
+You're managing patient data but don't have a structured way to identify HIPAA vulnerabilities before they become expensive compliance failures. Most healthcare teams waste months building risk assessments from scratch—or worse, skip them entirely and hope nothing breaks.  The HIPAA Risk Assessment Template gives you a pre-built, audit-ready framew
